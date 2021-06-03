@@ -5,6 +5,7 @@
 
 - 📫 Reach me at **loilyxtra@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/k_ylix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k_ylix" height="30" width="40" /></a>
@@ -21,3 +22,6 @@
 </p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kylixeza&show_icons=true&locale=en&theme=dark" alt="kylixeza" />
 </p>
+
+- <p>Help me to finish my college :)</p>
+https://saweria.co/kylixeza
