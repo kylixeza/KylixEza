@@ -1,7 +1,7 @@
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
 <h3 align="center">ordinary college student</h3>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 Reach me at **loilyxtra@gmail.com**
 
