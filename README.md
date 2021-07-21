@@ -26,11 +26,12 @@
 <h2 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<h2 align="left">My Github Statistics <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width = 48px> </h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylixeza&show_icons=true&theme=dark&locale=en&layout=compact" alt="kylixeza" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kylixeza&show_icons=true&theme=dark&locale=en" alt="kylixeza" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kylixeza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kylixeza&layout=compact&langs_count=8&theme=dark"/>
 </p>
-
+  
 <p>
   <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
