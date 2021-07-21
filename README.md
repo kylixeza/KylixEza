@@ -28,10 +28,12 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylixeza&show_icons=true&theme=dark&locale=en&layout=compact" alt="kylixeza" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kylixeza&show_icons=true&theme=dark&locale=en" alt="kylixeza" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kylixeza&show_icons=true&theme=dark&locale=en" alt="kylixeza" />
 </p>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<p>
+  <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 <video src="https://user-images.githubusercontent.com/58837451/126447437-fa443a96-c2f9-4db2-8019-f992238b9791.mp4" data-canonical-src="https://user-images.githubusercontent.com/58837451/126447437-fa443a96-c2f9-4db2-8019-f992238b9791.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
  </video>
+</p>
