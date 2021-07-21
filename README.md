@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="75%" height = "75%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
