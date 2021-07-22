@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "75%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" height = "100%" src="https://1.bp.blogspot.com/-b1_n6tOHvWU/YKMssWEjo-I/AAAAAAAAQjk/vIJQsAPUpRQKxR44GoCbm3CtRgr8tVBKACLcBGAsYHQ/s0/Android_NewForDevelopers_1024x512_updated.png" />
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
