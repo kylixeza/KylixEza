@@ -1,5 +1,5 @@
 <div align="center">
-<img width="50%" height = "500%" src="https://gpuinspector.dev/images/optimization.png" />
+<img width="20%" height = "20%" src="https://pa1.narvii.com/6050/4c06ddc9120de846759cd641bdda285d5dc46a31_hq.gif" />
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
