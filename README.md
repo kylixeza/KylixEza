@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 Reach me at **loilyxtra@gmail.com**
+- 📫 Reach me at **loilyxtra@gmail.com** or my university email **kylixeza@student.ub.ac.id**
 
 - ⚡ Fun fact **I don't know how to spell my first name**
 
