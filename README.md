@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" height = "30%" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif?cid=ecf05e4761wsmcdz1upcgvh1lz9o0y4b9q02lb2m2d6xu8p3&rid=giphy.gif&ct=s" />
+<img width="100%" height = "100%" src="https://media-exp1.licdn.com/dms/image/C5616AQGNH8O1OIUYCw/profile-displaybackgroundimage-shrink_350_1400/0/1631094098650?e=1636588800&v=beta&t=pSA_ppUTiPKnqWOISXe1zg2c0vTIFwWxWsxalxFIa08" />
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
