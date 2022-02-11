@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHNJ4sMRjykvg/profile-displaybackgroundimage-shrink_350_1400/0/1637078438290?e=1648684800&v=beta&t=wP21apkG6YfRbD5TZha6eK83UsmPYeLVw2gJnuWpgMI" />
+<img width="100%" height = "100%" src="https://user-images.githubusercontent.com/58837451/153530341-f548df5e-5cec-4973-b3cc-a00079edfe2e.png" />
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
