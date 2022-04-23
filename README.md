@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **kylixeza.dev@gmail.com** or my university email **kylixeza@student.ub.ac.id**
 
-- ⚡ Fun fact **I don't know how to spell my first name**
+- ⚡ Fun fact **I don't even know how was the right way to spell my first name**
 
 - 👨‍🎓 Help me to finish my college **https://saweria.co/kylixeza**
 
