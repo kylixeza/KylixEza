@@ -34,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kylixeza&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-<h2 align"left">Badge <img src = "" width="5%" height="5%"> </h2>
+<h2 align"left">Badge <img src = "https://media.giphy.com/media/45mXi5HkdggxfT5Fm3/giphy.gif" width="4%" height="4%"> </h2>
 <p>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56243762">
   
