@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://user-images.githubusercontent.com/58837451/153530341-f548df5e-5cec-4973-b3cc-a00079edfe2e.png" />
+<img width="100%" height = "100%" src="https://user-images.githubusercontent.com/58837451/194307228-6f7556d6-d511-4f66-9845-6bf1f6ecdf87.png"/>
+
 </div>
 
 <h1 align="center">Hello Visitor 👋 Kylix Eza Here!!!</h1>
