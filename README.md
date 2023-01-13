@@ -16,6 +16,12 @@
 
 - 👨‍🎓 Help me to finish my college **https://saweria.co/kylixeza**
 
+
+<p>
+  <h2> Music Of The Day <img align ='center' src='https://media3.giphy.com/media/j25atM0JZYLeEvyEc7/giphy.gif?cid=ecf05e47frrj6zzzw1sctuo6ar2wfeozh82e7ql83827ajq5&rid=giphy.gif&ct=s'  width ="5%" height="5%"></h2>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gamx95ngg4wzarh6pvnyzjr22&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
+</p>
+
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h2>
 <p align="left">
 <a href="https://linkedin.com/in/kylix-eza-saputra-1bb1b7192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylix-eza-saputra-1bb1b7192" height="30" width="40" /></a>
@@ -38,12 +44,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kylixeza&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-<h2 align"left">Badge <img src = "https://media.giphy.com/media/45mXi5HkdggxfT5Fm3/giphy.gif" width="4%" height="4%"> </h2>
+<h2 align"left">Badge <img src = "https://media.giphy.com/media/45mXi5HkdggxfT5Fm3/giphy.gif" width="3%" height="3%"> </h2>
 <p>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56243762">
   
 <p>
-  <h2> Programming humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width ="5%" height="5%"></h2>
+  <h2> Programming Humor <img align ='center' src='https://media2.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy_s.gif?cid=ecf05e478lf2wxtnd4yqjdq7lnswm60kraegbe5d9k3hqcky&rid=giphy_s.gif&ct=g'  width ="5%" height="5%"></h2>
 
 <video src="https://user-images.githubusercontent.com/58837451/126447437-fa443a96-c2f9-4db2-8019-f992238b9791.mp4" data-canonical-src="https://user-images.githubusercontent.com/58837451/126447437-fa443a96-c2f9-4db2-8019-f992238b9791.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
  </video>
