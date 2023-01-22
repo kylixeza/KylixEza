@@ -19,7 +19,7 @@
 
 <p>
   <h2> Music Of The Day <img align ='center' src='https://media3.giphy.com/media/j25atM0JZYLeEvyEc7/giphy.gif?cid=ecf05e47frrj6zzzw1sctuo6ar2wfeozh82e7ql83827ajq5&rid=giphy.gif&ct=s'  width ="5%" height="5%"></h2>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gamx95ngg4wzarh6pvnyzjr22&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gamx95ngg4wzarh6pvnyzjr22&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 </p>
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h2>
